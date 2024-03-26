@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Weane
 - 👀 I’m interested in ⛰️ 🏕️ 📷 💻 🚲
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
